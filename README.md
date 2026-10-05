@@ -1,4 +1,4 @@
-[![Java CI with Maven](https://github.com/fatyolbali/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/fatyolbali/se-lab/actions/workflows/maven.yml)
+[![Java CI with Maven](https://github.com/fatyolbali/se-lab/actions/workflows/maven.yml/badge.svg?branch=bugfix)](https://github.com/fatyolbali/se-lab/actions/workflows/maven.yml)
 
 
 # SE Spaceship
